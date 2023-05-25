@@ -1,3 +1,4 @@
+
 ### Olá! eu sou o Leonardo Reis ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-reis-81a2a4135/)
@@ -16,4 +17,4 @@
         <img align="center" alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Estudando NextJs, focado nos estudos 😊📚
+Estudando NextJs e TypeScript, focado nos estudos 😊📚
